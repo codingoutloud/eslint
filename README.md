@@ -9,9 +9,9 @@
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-![GitHub Actions status | codingoutloud/eslint](https://github.com/codingoutloud/eslint/workflows/ESLint/badge.svg)](https://github.com/codingoutloud/eslint/actions?workflow=ESLint)
+![GitHub Actions status | codingoutloud/eslint](https://github.com/codingoutloud/eslint/workflows/ESLint/badge.svg?event=push)](https://github.com/codingoutloud/eslint/actions?workflow=ESLint)
 
-[![example workflow](https://github.com/codingoutloud/eslint/actions/workflows/eslint.yml/badge.svg?event=push)]
+[![ESLint SAST scan workflow](https://github.com/codingoutloud/eslint/actions/workflows/eslint.yml/badge.svg?event=push)](https://github.com/codingoutloud/eslint/security/code-scanning)
 
 
 # yes
