@@ -1,4 +1,4 @@
-//var x = 1;
+var x = 1;
 y = 2;
 
 console.log("this is noisy");
