@@ -11,6 +11,9 @@
 
 ![GitHub Actions status | codingoutloud/eslint](https://github.com/codingoutloud/eslint/workflows/ESLint/badge.svg)](https://github.com/codingoutloud/eslint/actions?workflow=ESLint)
 
+[![example workflow](https://github.com/codingoutloud/eslint/actions/workflows/eslint.yml/badge.svg?event=push)]
+
+
 # yes
 
 ![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)](https://github.com/sdras/awesome-actions/actions?workflow=Lint+Awesome+List)
