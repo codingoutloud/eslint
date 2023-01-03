@@ -4,8 +4,8 @@
 
 [![ESLint SAST scan underway](https://github.com/codingoutloud/eslint/actions/workflows/eslint.yml/badge.svg?event=push)](https://github.com/codingoutloud/eslint/security/code-scanning)
 
-[![ESLint Scan](https://github.com/codingoutloud/eslint/actions/workflows/eslint.yml/badge.svg?event=push&style=for-the-badge&logo=eslint&logoColor=white)]
-(https://github.com/codingoutloud/eslint/security/code-scanning)
+[![ESLint Scan]
+(https://github.com/codingoutloud/eslint/actions/workflows/eslint.yml/badge.svg?event=push&style=for-the-badge&logo=eslint&logoColor=white)](https://github.com/codingoutloud/eslint/security/code-scanning)
 
 # The one ABOVE
 
