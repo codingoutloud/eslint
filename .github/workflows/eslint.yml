@@ -59,5 +59,13 @@ jobs:
           sarif_file: eslint-results.sarif
           wait-for-processing: true
 
+      - name: Run ESLint to File
+        if: success() || failure()
+        run: npx eslint .
+          --config .eslintrc.js
+          --ext .js,.jsx,.ts,.tsx
+          --format @microsoft/eslint-formatter-sarif
+          --output-file eslint-results.sarif
+        continue-on-error: false
 
 
