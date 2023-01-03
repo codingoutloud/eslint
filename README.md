@@ -20,7 +20,7 @@
 
 [![ESLint SAST scan workflow](https://github.com/codingoutloud/eslint/actions/workflows/eslint.yml/badge.svg?event=push)](https://github.com/codingoutloud/eslint/security/code-scanning)
 
-# yes
+# examples from elsewhere are below
 
 ![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)](https://github.com/sdras/awesome-actions/actions?workflow=Lint+Awesome+List)
 
