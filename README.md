@@ -1,5 +1,11 @@
 # eslint
 
+# The one BELOW
+
+[![ESLint SAST scan workflow](https://github.com/codingoutloud/eslint/actions/workflows/eslint.yml/badge.svg?event=push)](https://github.com/codingoutloud/eslint/security/code-scanning)
+
+
+# The one ABOVE
 [![PRs Are So Much Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/codingoutloud/eslint/blob/main/CONTRIBUTING.md)
 
 [![CI][ci-image]][ci-url]
