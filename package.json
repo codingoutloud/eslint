@@ -1,0 +1,24 @@
+{
+  "name": "eslint",
+  "version": "1.0.0",
+  "description": "my eslint config",
+  "main": "noisy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingoutloud/eslint.git"
+  },
+  "author": "Maura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codingoutloud/eslint/issues"
+  },
+  "homepage": "https://github.com/codingoutloud/eslint#readme",
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
