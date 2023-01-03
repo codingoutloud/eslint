@@ -1,4 +1,4 @@
-//var x = 1;
+var x = 1;
 //y = 2;
 
 console.log("this is noisy");
@@ -11,4 +11,4 @@ console.log("this is noisy");
 
 //var twelve = 12;
 
-//var fourteen = 14;
+var fourteen = 14;
