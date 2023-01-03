@@ -59,8 +59,8 @@ jobs:
           sarif_file: eslint-results.sarif
           wait-for-processing: true
 
-      - name: Run ESLint to File
-        if: success() || failure()
+      - name: Fail the Action on ESLint findings
+        #if: success() || failure()
         run: npx eslint .
           --config .eslintrc.js
           --ext .js,.jsx,.ts,.tsx
